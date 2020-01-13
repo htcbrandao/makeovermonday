@@ -13,6 +13,7 @@ The challenge: provide a visualization with insights that were lost in the origi
 The challenge: synthesize the scientific research into a small and insightful one-page analysis. <br>
 [Tableau Dashboard](http://bit.ly/dataviz-20-02) <br>
 [Tableau Image](https://raw.githubusercontent.com/htcbrandao/makeovermonday/master/Makeover%20Monday%202020%20W02.png) <br>
+[Tableau Image - Version 2](https://raw.githubusercontent.com/htcbrandao/makeovermonday/master/Makeover%20Monday%202020%20W02%20v2.png) <br>
 [Original Article](https://ehjournal.biomedcentral.com/articles/10.1186/s12940-019-0488-0) <br>
 [Original Data Source](https://data.world/makeovermonday/2020w2/) <br>
 [Final Data Source](https://github.com/htcbrandao/makeovermonday/blob/master/Makeover%20Monday%202020%20W02.xlsx) <br>
